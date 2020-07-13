@@ -16,15 +16,16 @@ We currently support the following languages:
 
 We are looking to support the following langauges:
 
-* `zh-CN` Chinese (Mainland, 簡體)
-* `zh-TW` Chinese (Taiwan, 繁體)
-* `zh-HK` Chinese (Hong Kong, 繁體)
-* `en-GB` British English
-* `en-CA` Canadian English
-* `en-AU` Australian English
-* `en-NZ` New Zealand English
-* `fr-FR` French
 * `de-DE` German
+* `en-AU` Australian English
+* `en-CA` Canadian English
+* `en-GB` British English
+* `en-NZ` New Zealand English
+* `es-MX` Mexican Spanish
+* `fr-FR` French
 * `it-IT` Italian
 * `ko-KR` Korean
-* `es-MX` Mexican Spanish
+* `ru-RU` Russian
+* `zh-CN` Chinese (Mainland, 簡體)
+* `zh-HK` Chinese (Hong Kong, 繁體)
+* `zh-TW` Chinese (Taiwan, 繁體)
